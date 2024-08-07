@@ -10,6 +10,7 @@
 
 
 #Controls
+
     WASD -> Move player
     Left mouse button -> Fire a weapon 
     Right mouse button -> Toggle Aim
@@ -22,6 +23,7 @@
     Tab -> Toggle Menu
     
 #Gameplay
+
     Objective of the game is to Collect six Golden Statues.
     Map contains Pickable Ammo boxes, Health Packs and Weapons.
     
