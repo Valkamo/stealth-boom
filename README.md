@@ -36,5 +36,7 @@
     Player can hide behind objects to disrupt the vision of the enemies.
     Game objectives are scattered around the map in a fixed location. 
 
+# Created by
+    Oskar Valkamo and Maryam Kheirkhah 2024
     
     
